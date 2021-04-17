@@ -1,0 +1,92 @@
+/* HELPERS */
+
+/* SPACING */
+
+/* MARGIN */
+.mx-auto { margin-left:auto;margin-right:auto; }
+.my-auto { margin-top:auto;margin-bottom:auto; }
+
+.m-0 { margin:0; }
+.m-1 { margin:1; }
+.m-2 { margin:2; }
+.m-3 { margin:3; }
+.m-4 { margin:4; }
+.m-5 { margin:5; }
+
+.mb-auto { margin-bottom:auto; }
+.mb-0 { margin-bottom:0.0em; }
+.mb-1 { margin-bottom:0.1em; }
+.mb-2 { margin-bottom:0.2em; }
+.mb-3 { margin-bottom:0.3em; }
+.mb-4 { margin-bottom:0.4em; }
+.mb-5 { margin-bottom:0.5em; }
+
+.mt-auto { margin-top:auto; }
+.mt-0 { margin-top:0em; }
+.mt-1 { margin-top:1em; }
+.mt-2 { margin-top:2em; }
+.mt-3 { margin-top:3em; }
+.mt-4 { margin-top:4em; }
+.mt-5 { margin-top:5em; }
+
+.mr-auto { margin-right:auto; }
+.mr-0 { margin-right:0; }
+.mr-1 { margin-right:1; }
+.mr-2 { margin-right:2; }
+.mr-3 { margin-right:3; }
+.mr-4 { margin-right:4; }
+.mr-5 { margin-right:5; }
+
+.ml-auto { margin-left:auto; }
+.ml-0 { margin-left:0em; }
+.ml-1 { margin-left:1em; }
+.ml-2 { margin-left:2em; }
+.ml-3 { margin-left:3em; }
+.ml-4 { margin-left:4em; }
+.ml-5 { margin-left:5em; }
+
+/* PADDING */
+.p-0 { padding:0; }
+.pt-0 { padding-top:0; }
+.pt-1 { padding-top:1; }
+.pt-2 { padding-top:2; }
+.pt-3 { padding-top:3; }
+.pt-4 { padding-top:4; }
+.pt-5 { padding-top:5; }
+
+.pb-0 { padding-bottom:0; }
+.pb-1 { padding-bottom:1; }
+.pb-2 { padding-bottom:2; }
+.pb-3 { padding-bottom:3; }
+.pb-4 { padding-bottom:4; }
+.pb-5 { padding-bottom:5; }
+
+.pl-0 { padding-left:0; }
+.pl-1 { padding-left:1; }
+.pl-2 { padding-left:2; }
+.pl-3 { padding-left:3; }
+.pl-4 { padding-left:4; }
+.pl-5 { padding-left:5; }
+
+.pr-0 { padding-right:0; }
+.pr-1 { padding-right:1; }
+.pr-2 { padding-right:2; }
+.pr-3 { padding-right:3; }
+.pr-4 { padding-right:4; }
+.pr-5 { padding-right:5; }
+
+.w-0 { width:0%;}
+.w-25 { width:25%;}
+.w-50 { width:50%;}
+.w-75 { width:75%;}
+.w-100 { width:100%;}
+
+.h-0 { height:0%;}
+.h-25 { height:25%;}
+.h-50 { height:50%;}
+.h-75 { height:75%;}
+.h-100 { height:100%;}
+
+.d-none { display:none;visibility:hidden;}
+
+/* TODO : Typography */
