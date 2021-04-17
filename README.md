@@ -14,4 +14,4 @@ Kurutu css is basically a collection of css files where each file is responsible
 
 # License
 
-MIT
+MIT, See [LICENSE](LICENSE)
